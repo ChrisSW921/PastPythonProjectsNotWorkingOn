@@ -1,0 +1,5 @@
+96,3322,8,Electronic
+87,9909,7,Electronic
+43,8876,3,Toy
+3.21,4432,8,Food
+4.55,5555,10,Electronic
